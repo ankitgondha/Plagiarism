@@ -1,0 +1,1 @@
+Machine Learning (ML) is a field of artificial intelligence where algorithms learn from data to make predictions or decisions without being explicitly programmed. It enables systems to improve performance over time.
